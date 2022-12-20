@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Averta Demo PE Cutted Demo Regular";
+  src: url("../fonts/Averta-demo-cutted/averta_demo_pe_cutted_demo_regular.eot"); /* IE 9 Compatibility Mode */
+  src: url("../fonts/Averta-demo-cutted/averta_demo_pe_cutted_demo_regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE < 9 */
+      url("../fonts/Averta-demo-cutted/averta_demo_pe_cutted_demo_regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/Averta-demo-cutted/averta_demo_pe_cutted_demo_regular.woff")
+      format("woff"),
+    /* Firefox >= 3.6, any other modern browser */
+      url("../fonts/Averta-demo-cutted/fonts/averta_demo_pe_cutted_demo_regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/Averta-demo-cutted/fonts/averta_demo_pe_cutted_demo_regular.svg#averta_demo_pe_cutted_demo_regular")
+      format("svg"); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+  font-family: "Proxima Nova Rg";
+  src: url("../fonts/Proxima-nova/");
+  src: local("../fonts/Proxima-nova/Proxima Nova Bold"),
+    local("ProximaNova-Bold"),
+    url("../fonts/Proxima-nova/?#iefix") format("embedded-opentype"),
+    url("../fonts/Proxima-nova/ProximaNova-Bold.woff2") format("woff2"),
+    url("../fonts/Proxima-nova/ProximaNova-Bold.woff") format("woff"),
+    url("../fonts/Proxima-nova/ProximaNova-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}

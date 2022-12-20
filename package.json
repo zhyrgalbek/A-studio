@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "jquery": "^3.6.2",
+    "normalize.css": "^8.0.1",
+    "owl.carousel": "^2.3.4",
+    "video.js": "^7.20.3"
+  },
+  "name": "astudio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^3.0.0"
+  }
+}
